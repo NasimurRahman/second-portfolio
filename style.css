@@ -1,0 +1,10 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.first-part {
+
+    display: flex;
+    margin-bottom: 150px;
+    background-color: purple;
+}
