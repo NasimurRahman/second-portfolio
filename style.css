@@ -1,10 +1,38 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
-.first-part {
+h1 {
+    font-size: 35px;
+}
 
+.sec-1 {
     display: flex;
-    margin-bottom: 150px;
-    background-color: purple;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+img {
+    width: 50%;
+    float: right;
+
+}
+
+.s-div {
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(tomato, orange);
+    padding: 5px;
+    border-radius: 2px;
+}
+
+.sec-2 {
+    box-shadow: 10px 10px;
 }
